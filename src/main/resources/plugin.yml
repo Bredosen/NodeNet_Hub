@@ -1,0 +1,8 @@
+name: NodeNetHub
+version: '${project.version}'
+main: node.net.hub.NodeNetHub
+api-version: 1.19
+load: STARTUP
+authors: [ Bredosen ]
+description: NodeNet Hub plugin
+depend: [NodeNetCore]
